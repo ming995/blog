@@ -20,5 +20,7 @@ const attribute = {
 ### 分析
 [shineout如何高性能]()
 
+### 摄影
+[相机参数详解]()
 
 
