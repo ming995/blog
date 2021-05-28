@@ -25,6 +25,8 @@ const attribute = {
 ### 技术
 [SPM]()
 
+[git命令清单]()
+
 ### 工具
 [mac工具清单]()
 
