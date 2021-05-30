@@ -24,6 +24,7 @@ const attribute = {
 
 ### 技术
 [SPM]()
+[数据分析图类型]()
 
 [git命令清单]()
 
