@@ -24,12 +24,18 @@ const attribute = {
 
 ### 技术
 [SPM]()
-[数据分析图类型]()
+
+[数据分析图类型](https://github.com/ming995/blog/blob/main/data-analysis-chart.md)
 
 [git命令清单]()
 
 ### 工具
 [mac工具清单]()
+
+### 数学
+[常用数学符号]()
+
+[微积分]()
 
 ### 摄影
 [相机参数详解]()
